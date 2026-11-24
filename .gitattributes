@@ -1,0 +1,7 @@
+# Keep original binary scientific datasets untouched by text normalization.
+*.tif binary
+*.tiff binary
+*.xls binary
+*.xlsx binary
+*.png binary
+*.jpg binary
